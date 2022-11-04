@@ -1,4 +1,4 @@
-#O que é IaC
+# O que é IaC
 
 Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais.
 
@@ -7,7 +7,7 @@ Com a IaC, são criados arquivos de configuração que incluem as especificaçõ
 Fonte: Red Hat - https://www.redhat.com/
 
 
-#Principais benefícios
+# Principais benefícios
 - Controle de versão
 - Automação
 - Redução de erros
